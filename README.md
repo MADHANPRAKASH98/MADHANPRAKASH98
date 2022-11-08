@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @MADHANPRAKASH98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in make quality product
+- 🌱 I’m currently learning  new platforms in automation testing
+- 💞️ I’m looking to collaborate on Selenium automation.
+- 📫 How to reach me madhan.intech@gmail.com
 
-<!---
-MADHANPRAKASH98/MADHANPRAKASH98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
